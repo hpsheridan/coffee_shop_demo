@@ -1,0 +1,33 @@
+.about-container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #242424;
+
+}
+
+.about-h1 {
+    text-align: center;
+    color: rgba(146, 125, 125, 0.9);
+}
+
+.about-p {
+    text-align: center;
+    color: white;
+}
+
+.termsOfService {
+    text-align: center;
+    color: purple;
+
+}
+
+.termsOfServiceA1 {
+    text-align: center;
+    color: rgba(146, 125, 125, 0.9);
+}
+
+.termsOfServiceP {
+    text-align: center;
+    color: white;
+}

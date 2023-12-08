@@ -1,0 +1,58 @@
+.contact-container {
+    background-color: #242424;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+
+}
+
+.email h2,
+.phone h2,
+form-container h2 {
+    font-size: 20px;
+    font-weight: lighter;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    margin-right: 42px;
+}
+
+.email button {
+    margin: 10px;
+    font-size: 20px;
+    padding: 0px 0px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.phone p {
+    margin: 10px;
+    font-size: 20px;
+    padding: 0px 0px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.form-container {
+    display: inline-block;
+}
+
+#contact-form {
+    display: table;
+}
+
+#contact-form p {
+    display: table-row;
+}
+
+#contact-form label {
+    display: table-cell;
+    font-size: 20px;
+}
+
+#contact-form input {
+    display: table-cell;
+}
